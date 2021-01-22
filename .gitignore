@@ -1,0 +1,5 @@
+.vscode
+build
+model
+*.wts
+CMakeLists.txt.bak
